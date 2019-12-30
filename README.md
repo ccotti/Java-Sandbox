@@ -1,2 +1,2 @@
-# Java
-All java src code
+# Java Playground
+All my java src code while learning
