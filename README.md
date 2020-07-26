@@ -1,2 +1,2 @@
-# Java Playground
-All my java src code created while learning
+# Java Sandbox
+Repository for java code created during self-taught learning and practice.
