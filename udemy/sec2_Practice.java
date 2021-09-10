@@ -1,3 +1,5 @@
+/*Practice for variables, strings, while loops, for loops, do-while loops, If statements, Switch Statements, and getting user input */
+
 import java.util.Scanner;
 
 public class sec2_Practice {
@@ -16,6 +18,13 @@ public class sec2_Practice {
         num2 = unum2.nextInt();
 
         System.out.println(text + num1 + " and " + num2);
+        
+        if (num1 > num2) {
+            System.out.println(num1 + " is greater than " + num2);
+        } else {
+            System.out.println(num2 + " is greater than " + num1);
+        }
+            
         
         unum1.close();
         unum2.close();
