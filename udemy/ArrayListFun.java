@@ -1,23 +1,23 @@
-import java.util.*
+// import java.util.*
 
-;public class ArrayListFun {
-    public static void main(String[] args){
+// ;public class ArrayListFun {
+//     public static void main(String[] args){
 
-        ArrayList<String> namesList = new ArrayList<>();
+//         ArrayList<String> namesList = new ArrayList<>();
 
-        namesList.add("John");
-        namesList.add("Kyle");
-        namesList.add("Matthew");
-        namesList.add("Amanda");
-        namesList.add("Wendy");
+//         namesList.add("John");
+//         namesList.add("Kyle");
+//         namesList.add("Matthew");
+//         namesList.add("Amanda");
+//         namesList.add("Wendy");
 
-        // for(int i = 0; i < namesList.size(); i ++) {
-        //     System.out.println(namesList.get(i));
-        // }
+//         // for(int i = 0; i < namesList.size(); i ++) {
+//         //     System.out.println(namesList.get(i));
+//         // }
 
-            for(String name : namesList) {
-                System.out.println(name);
-            }
+//             for(String name : namesList) {
+//                 System.out.println(name);
+//             }
 
-    } // end main
-}
+//     } // end main
+// }
