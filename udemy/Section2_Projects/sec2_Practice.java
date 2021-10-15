@@ -1,3 +1,5 @@
+//package Section2_Projects;
+
 // /*Practice for variables, strings, while loops, for loops, do-while loops, If statements, Switch Statements, and getting user input */
 
 // import java.util.Scanner;

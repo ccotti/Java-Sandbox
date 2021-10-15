@@ -1,3 +1,5 @@
+package Section5_Projects;
+
 public class Proj5_1_StringsP1 {
     public static void main(String[] args) {
         String name = "Chris Cottingham";

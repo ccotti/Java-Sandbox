@@ -1,3 +1,5 @@
+package Section5_Projects;
+
 import java.util.Scanner;
 
 public class Proj5_2_StringsP2 {

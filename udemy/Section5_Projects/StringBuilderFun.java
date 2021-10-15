@@ -1,3 +1,5 @@
+package Section5_Projects;
+
 public class StringBuilderFun {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Chris Cottingham");

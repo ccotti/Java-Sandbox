@@ -1,3 +1,5 @@
+package Section5_Projects;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
