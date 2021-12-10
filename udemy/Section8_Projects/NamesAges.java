@@ -12,8 +12,9 @@ public class NamesAges {
         PrintWriter pw;
         
         try {
-            namesFile = new Scanner (new File("student_names.txt")); 
-            agesFile = new Scanner (new File("student_ages.txt")); 
+            
+            namesFile = new Scanner(new File("student_names.txt")); 
+            agesFile = new Scanner(new File("student_ages.txt")); 
             pw = new PrintWriter("names_ages.txt");
 
             String tempName;
@@ -33,6 +34,6 @@ public class NamesAges {
         } catch (FileNotFoundException ex) 
         {
             System.out.println(ex.getMessage());
-        }
+        }// end try-catch
     }// end main
-}
+}//end class
