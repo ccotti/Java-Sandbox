@@ -1,5 +1,4 @@
-package Section8_Projects;
-
+/*
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
@@ -19,3 +18,4 @@ public class FileOutputFun {
 
     }//end main
 }
+*/

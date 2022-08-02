@@ -1,5 +1,4 @@
-/*
-package Unit02;
+
 import java.util.Scanner;
 
 public class BasicInput {
@@ -32,5 +31,4 @@ public class BasicInput {
       scnr.close();
    }
 }
-*/
 

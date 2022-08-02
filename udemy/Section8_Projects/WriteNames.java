@@ -1,4 +1,4 @@
-package Section8_Projects;
+/*
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -28,3 +28,5 @@ public class WriteNames {
 
     }//end main
 }
+
+*/
