@@ -6,14 +6,13 @@ public class BasicInput {
       Scanner scnr = new Scanner(System.in);
       int userInt;
       double userDouble;
-      // FIXME Define char and string variables similarly
+
       char userChar;
       String userString;
             
       System.out.println("Enter integer:");
       userInt = scnr.nextInt();
       
-      // FIXME (1): Finish reading other items into variables, then output the four values on a single line separated by a space
       System.out.println("Enter double:");
       userDouble = scnr.nextDouble();
       System.out.println("Enter character:");
@@ -22,10 +21,8 @@ public class BasicInput {
       userString = scnr.next();
       System.out.println("" + userInt + " " + userDouble + " " + userChar + " " + userString);
       
-      // FIXME (2): Output the four values in reverse
       System.out.println("" + userString + " " + userChar + " " + userDouble + " " + userInt);
       
-      // FIXME (3): Cast the double to an integer, and output that integer
       System.out.println(userDouble + " cast to an integer is " + (int)userDouble);
       
       scnr.close();
