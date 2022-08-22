@@ -1,5 +1,4 @@
 /*
-package Unit02;
 
 import java.util.Scanner;
 import java.lang.Math;     // Note: Needed for math functions in part (3)
@@ -33,5 +32,4 @@ public class PaintEstimator {
       scnr.close();
       
    }
-}
-*/
+}   */

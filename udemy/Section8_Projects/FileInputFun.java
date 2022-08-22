@@ -1,5 +1,4 @@
-package Section8_Projects;
-
+          
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -9,7 +8,7 @@ public class FileInputFun {
         Scanner infile;
 
         try {
-            infile = new Scanner(new File("input.txt"));
+            infile = new Scanner(new File("/Users/ccotti/workspaces/Java/Java-Sandbox/udemy/Section8_Projects/student_ages.txt"));
             int input;
             int sum = 0;
 
@@ -21,7 +20,7 @@ public class FileInputFun {
 
             System.out.println("Sum is " + sum);
             infile.close();
-        }
+        } 
         catch(FileNotFoundException ex) {
             System.out.println("Can't find file!");
             System.out.println(ex.getMessage());

@@ -1,4 +1,3 @@
-package Section8_Projects;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,8 +12,8 @@ public class NamesAges {
         
         try {
             
-            namesFile = new Scanner(new File("student_names.txt")); 
-            agesFile = new Scanner(new File("student_ages.txt")); 
+            namesFile = new Scanner(new File("/Users/ccotti/workspaces/Java/Java-Sandbox/udemy/Section8_Projects/student_names.txt")); 
+            agesFile = new Scanner(new File("/Users/ccotti/workspaces/Java/Java-Sandbox/udemy/Section8_Projects/student_ages.txt")); 
             pw = new PrintWriter("names_ages.txt");
 
             String tempName;

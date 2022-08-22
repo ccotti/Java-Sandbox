@@ -1,5 +1,4 @@
-package Section8_Projects;
-
+/*
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -56,3 +55,4 @@ public class Proj8_1_RectangleFile {
 
 
 }//end class
+*/

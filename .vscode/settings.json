@@ -1,3 +1,11 @@
 {
+<<<<<<< HEAD
     "workbench.colorTheme": "Blue Thunder"
+=======
+    "workbench.colorTheme": "Visual Studio Dark",
+    "java.project.sourcePaths": [
+        "sandbox01",
+        "udemy/Section8_Projects"
+    ]
+>>>>>>> 360dc8d9f973a7ac333c2444e54ad354015831e2
 }
