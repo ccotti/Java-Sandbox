@@ -25,5 +25,8 @@ public class Main {
         bobsAccount.withdrawFunds(54.46);
 
         bobsAccount.withdrawFunds(54.45);
+
+        Account timAccount = new Account("Tim", "tim@email.com", "124563");
+        System.out.println("AccountNo: " + timAccount.getNumber() + "; name " + timAccount.getCustomerName());
     }
 }

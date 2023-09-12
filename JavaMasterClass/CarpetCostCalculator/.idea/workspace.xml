@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b98fe11c-386a-4d79-ae0e-3e07e64ea0b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/ConstructorChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorChallenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/ConstructorPartTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPartTwo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/Point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/RecordProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/RecordProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/src/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordProject2/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/WallArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WallArea/src/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesChallenge/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassesChallenge/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassesChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassesChallenge/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPartOne/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/out/production/ConstructorPartOne/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPartOne/out/production/ConstructorPartOne/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/out/production/ConstructorPartOne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPartOne/out/production/ConstructorPartOne/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPartOne/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorPartOne/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorPartOne/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2VJOVi8mPMz3xy8e7LbPSACcjdP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b98fe11c-386a-4d79-ae0e-3e07e64ea0b6" name="Changes" comment="" />
+      <created>1694550743200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694550743200</updated>
+    </task>
+    <servers />
+  </component>
+</project>
