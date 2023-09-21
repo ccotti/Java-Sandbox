@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c8650d3-82ae-4c01-97ed-cb59f8bca78d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/CodeExerciseCylinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/InheritanceChallengePart2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Worker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2VfjNtAxXc8XrGyxbXMCYLSl9S4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8650d3-82ae-4c01-97ed-cb59f8bca78d" name="Changes" comment="" />
+      <created>1695233994867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695233994867</updated>
+    </task>
+    <servers />
+  </component>
+</project>

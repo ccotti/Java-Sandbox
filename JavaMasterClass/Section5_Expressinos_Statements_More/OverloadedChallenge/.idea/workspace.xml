@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a3bb578-52f6-4b16-9374-efc0d9e16ea7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/TeenNumberChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/InheritanceChallengePart2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallengePart2/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OverloadedChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/src/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolArea/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/AreaCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeExerciseCylinder/CodeExerciseCylinder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/src/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/AreaCalculator/AreaCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/out/production/BarkingDog/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/out/production/BarkingDog/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/DecimalComparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/out/production/DecimalComparator/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/out/production/DecimalComparator/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/src/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/EqualSumChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/DecimalComparator/DecimalComparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/out/production/EqualSumChecker/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/out/production/EqualSumChecker/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/src/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/src/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallengePart1/src/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/IntEqualityPrinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualSumChecker/EqualSumChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/out/production/IntEqualityPrinter/IntEqualityPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/out/production/IntEqualityPrinter/IntEqualityPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntEqualityPrinter/src/IntEqualityPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/src/IntEqualityPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/LeapYear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/EqualityPrinter/IntEqualityPrinter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/out/production/LeapYear/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/LeapYear/LeapYear.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/out/production/MegaBytesConverter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/MegaBytesConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/out/production/MegaBytesConverter/MegaBytesConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/out/production/MethodOverloading/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/out/production/MethodOverloading/MethodOverloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/src/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/src/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/out/production/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/out/production/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/src/MinutesToYearsDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/src/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/PlayingCat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/out/production/PlayingCat/PlayingCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/out/production/PlayingCat/PlayingCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/src/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/src/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/PositiveNegativeZero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PlayingCat/PlayingCat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/out/production/PositiveNegativeZero/PositiveNegativeZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/out/production/PositiveNegativeZero/PositiveNegativeZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositiveNegativeZero/src/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/src/PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/PositiveNegativeZero/PositiveNegativeZero.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/out/production/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/out/production/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/src/SecondsAndMinutesChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/src/SecondsAndMinutesChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/out/production/SpeedConverter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/SpeedConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/out/production/SpeedConverter/SpeedConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/src/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/src/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/TeenNumberChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/SpeedConverter/SpeedConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/out/production/TeenNumberChecker/TeenNumberChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/out/production/TeenNumberChecker/TeenNumberChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenNumberChecker/src/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Expressinos_Statements_More/TeenNumberChecker/src/TeenNumberChecker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ViITJec5DzBSomgptOUKi9GsaA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3bb578-52f6-4b16-9374-efc0d9e16ea7" name="Changes" comment="" />
+      <created>1695312483094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695312483094</updated>
+    </task>
+    <servers />
+  </component>
+</project>
